@@ -1,0 +1,1 @@
+pytest -v -s -m .\testcasees -m "sanity"
